@@ -1,4 +1,3 @@
-
 #include "BaseObject.h"
 #undef main
 
@@ -32,7 +31,6 @@ bool BaseObject::LoadImg(std::string path, SDL_Renderer* screen)
             rect_.w = load_surface->w;
             rect_.h = load_surface->h;
         }
-
         SDL_FreeSurface(load_surface);
     }
 
