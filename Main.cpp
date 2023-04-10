@@ -83,10 +83,6 @@ int main(int argc, char* argv[])
     p_player.LoadImg("img//player_right.png", g_screen);
     p_player.set_clips();
 
-
-
-
-
     bool is_quit = false;
     while (!is_quit)
     {
