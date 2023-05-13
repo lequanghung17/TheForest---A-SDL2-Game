@@ -34,4 +34,6 @@ Người chơi sẽ có 3 mạng, với mỗi lần bị đạn của quái vậ
 
 [demo_TheForest](https://youtu.be/o0zh8319WuI)
 
+update demo : [demo_TheForest_update](https://youtu.be/1pSj6u5QP1M)
+
 
